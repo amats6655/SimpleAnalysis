@@ -1,6 +1,6 @@
 @echo off
 chcp 65001 >nul
-title SimpleAnalysis - Запуск
+title SimpleAnalysis - asы
 
 echo [INFO] Создание виртуального окружения...
 python -m venv venv || goto error
